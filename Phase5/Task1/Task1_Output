@@ -1,0 +1,76 @@
+
+Error starting at line : 2 in command -
+(any direction)
+SELECT *
+FROM House
+WHERE h_neighborhood = 'French Quarter'
+ORDER BY H_PRICE DESC
+
+-- 2. [2 pts] Find all houses on Bourbon (in the address). Hint: remember the LIKE operator.
+SELECT *
+FROM HOUSE
+WHERE H_ADDRESS LIKE '%Bourbon%'
+ORDER BY H_ID ASC
+Error at Command Line : 2 Column : 2
+Error report -
+SQL Error: ORA-00928: missing SELECT keyword
+00928. 00000 -  "missing SELECT keyword"
+*Cause:    
+*Action:
+
+A_ID A_NAME                                             A_PHONE      A_AS
+---- -------------------------------------------------- ------------ ----
+A10  Shreya Banerjee                                    504-125-4567     
+A02  James Wagner                                       504-123-5567     
+A08  David Pace                                         504-124-4567     
+
+
+B_SSN       B_NAME                                             B_LOWERPRICE B_UPPERPRICE AGEN
+----------- -------------------------------------------------- ------------ ------------ ----
+987-65-4322 Margot Robbie                                            300000       325000 A04 
+987-62-4321 Tom Hardy                                                300000       330000 A03 
+
+
+B_SSN       B_NAME                                             B_LOWERPRICE B_UPPERPRICE AGEN
+----------- -------------------------------------------------- ------------ ------------ ----
+987-65-4321 Will Smith                                               200000       250000 A01 
+987-65-4328 Gal Gadot                                                210000       245000 A01 
+
+
+MINIMUM_PRICE MAXIMUM_PRICE
+------------- -------------
+       100000        510000
+
+
+AVERAGE_PRICE
+-------------
+       312250
+
+
+H_ID H_ADDRESS            H_NEIGHBORHOOD                    H_PRICE H_SQUAREFEET SELLERSSN   AGEN
+---- -------------------- ------------------------------ ---------- ------------ ----------- ----
+H13  1100 Carrollton      Mid City                           510000         2100 123-45-6781 A09 
+
+
+H_ID H_ADDRESS            H_NEIGHBORHOOD                    H_PRICE H_SQUAREFEET SELLERSSN   AGEN
+---- -------------------- ------------------------------ ---------- ------------ ----------- ----
+H01  101 Bourbon          French Quarter                     225000         1200 123-45-6789 A01 
+H02  201 Bourbon          French Quarter                     230000         1400 223-45-6789 A03 
+H03  301 Bourbon          French Quarter                     280000         1800 423-45-6789 A03 
+H04  123 Royal            French Quarter                     250000         1750 623-45-6789 A01 
+H06  1501 Dave Dixon      Central Business District          350000         8000 823-45-6789 A04 
+H07  1000 Carrollton      Mid City                           310000         2000 623-45-6789 A06 
+H08  1200 City Park       Mid City                           327000         2100 123-45-6780 A01 
+H10  101 Chartres         French Quarter                     299000          900 623-45-6789 A09 
+H12  601 Bourbon          French Quarter                     110000          600 223-45-6789 A02 
+H14  1300 City Park       Mid City                           270000         1400 323-45-6789 A03 
+H15  1000 City Park       Mid City                           240000         1400 123-45-6782 A05 
+
+H_ID H_ADDRESS            H_NEIGHBORHOOD                    H_PRICE H_SQUAREFEET SELLERSSN   AGEN
+---- -------------------- ------------------------------ ---------- ------------ ----------- ----
+H16  401 Bourbon          French Quarter                     100000          500 123-45-6789 A04 
+H19  500 Poydras          Central Business District          333000         1500 623-45-6789 A05 
+H20  600 Poydras          Central Business District          335000         1400 723-45-6789 A01 
+
+14 rows selected. 
+

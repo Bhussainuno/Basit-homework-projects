@@ -1,0 +1,32 @@
+
+A_NAME                                            
+--------------------------------------------------
+Kathy Johnson
+Chris Summa
+James Wagner
+Ben Samuel
+Ted Holmberg
+Tamjid Hoque
+Vassil Roussev
+
+7 rows selected. 
+
+
+H_NEIGHBORHOOD                 AVERAGE_PRICE
+------------------------------ -------------
+French Quarter                        266000
+Central Business District             359800
+Mid City                              342000
+
+
+A_NAME                                            
+--------------------------------------------------
+Shreya Banerjee
+David Pace
+Yasin Nur
+
+
+ AVG_PRICE
+----------
+    298000
+

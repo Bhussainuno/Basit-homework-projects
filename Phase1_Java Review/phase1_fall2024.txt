@@ -1,0 +1,8 @@
+123-45-6789, Taylor Swift, 504-987-6543
+H01, 101 Bourbon, French Quarter, 225000, 1200, 123-45-6789, A01
+987-65-4324, Alice, 12
+987-65-4321, Will Smith, 200000, 250000, A01
+A03, Chris Summa, 504-223-4567, A10 
+H05, 1500 Sugar Bowl, Central Business District, 400000.99, 10000, 123-45-6789, A02
+H06, 1501 Dave Dixon, Central Business District, 350000, 8000, 823-45-6789, A04
+223-45-6789, Bruno Mars, 504-187-6543

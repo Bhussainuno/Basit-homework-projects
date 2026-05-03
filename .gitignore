@@ -1,0 +1,22 @@
+Original_Zip_Backups/ 
+Extracted_Zips/ 
+*.zip 
+*.rar 
+*.class 
+__MACOSX/ 
+.DS_Store 
+*.mp4 
+New/ 
+"New folder/" 
+"New folder (2)/" 
+old_3301/ 
+*.dmg 
+*.pages 
+*.jp2 
+New/ 
+"New folder/" 
+"New folder (2)/" 
+old_3301/ 
+*.dmg 
+*.pages 
+*.jp2 

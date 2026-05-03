@@ -1,0 +1,62 @@
+
+A_NAME                                            
+--------------------------------------------------
+Vassil Roussev
+Ben Samuel
+Yasin Nur
+
+
+H_ADDRESS               H_PRICE
+-------------------- ----------
+301 Bourbon              280000
+1000 Carrollton          310000
+101 Chartres             299000
+1300 City Park           270000
+
+
+A_NAME                                            
+--------------------------------------------------
+Chris Summa
+Ted Holmberg
+Tamjid Hoque
+
+
+H_NEIGHBORHOOD                 NUMBEROFHOUSES NUMBEROFAGENTS
+------------------------------ -------------- --------------
+French Quarter                              9              6
+Central Business District                   5              5
+Mid City                                    6              6
+
+
+B_NAME                                            
+--------------------------------------------------
+Dwayne Johnson
+Emma Stone
+
+
+S_NAME                                            
+--------------------------------------------------
+Taylor Swift
+Adele
+Katy Perry
+Britney Spears
+Post Malone
+
+
+H_ID H_ADDRESS            H_NEIGHBORHOOD                    H_PRICE H_SQUAREFEET SELLERSSN   AGEN
+---- -------------------- ------------------------------ ---------- ------------ ----------- ----
+H12  601 Bourbon          French Quarter                     110000          600 223-45-6789 A02 
+H16  401 Bourbon          French Quarter                     100000          500 123-45-6789 A04 
+
+
+H_ID H_ADDRESS            H_NEIGHBORHOOD                    H_PRICE H_SQUAREFEET SELLERSSN   AGEN
+---- -------------------- ------------------------------ ---------- ------------ ----------- ----
+H02  201 Bourbon          French Quarter                     230000         1400 223-45-6789 A03 
+H09  400 Poydras          Central Business District          381000         1400 123-45-6783 A06 
+H11  456 Royal            French Quarter                     500000         2500 523-45-6789 A01 
+H12  601 Bourbon          French Quarter                     110000          600 223-45-6789 A02 
+H16  401 Bourbon          French Quarter                     100000          500 123-45-6789 A04 
+H20  600 Poydras          Central Business District          335000         1400 723-45-6789 A01 
+
+6 rows selected. 
+

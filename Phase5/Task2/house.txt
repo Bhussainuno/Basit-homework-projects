@@ -1,0 +1,20 @@
+H01, 101 Bourbon, French Quarter, 225000, 1200, 123-45-6789, A01
+H02, 201 Bourbon, French Quarter, 230000, 1400, 223-45-6789, A03
+H03, 301 Bourbon, French Quarter, 280000, 1800, 423-45-6789, A03
+H04, 123 Royal, French Quarter, 250000, 1750, 623-45-6789, A01
+H05, 1500 Sugar Bowl, Central Business District, 400000, 10000, 123-45-6789, A02
+H06, 1501 Dave Dixon, Central Business District, 350000, 8000, 823-45-6789, A04
+H07, 1000 Carrollton, Mid City, 310000, 2000, 623-45-6789, A06
+H08, 1200 City Park, Mid City, 327000, 2100, 123-45-6780, A01
+H09, 400 Poydras, Central Business District, 381000, 1400, 123-45-6783, A06
+H10, 101 Chartres, French Quarter, 299000, 900, 623-45-6789, A09
+H11, 456 Royal, French Quarter, 500000, 2500, 523-45-6789, A01
+H12, 601 Bourbon, French Quarter, 110000, 600, 223-45-6789, A02
+H13, 1100 Carrollton, Mid City, 510000, 2100, 123-45-6781, A09
+H14, 1300 City Park, Mid City, 270000, 1400, 323-45-6789, A03
+H15, 1000 City Park, Mid City, 240000, 1400, 123-45-6782, A05
+H16, 401 Bourbon, French Quarter, 100000, 500, 123-45-6789, A04
+H17, 1200 Carrollton, Mid City, 395000, 2400, 123-45-6783, A02
+H18, 501 Bourbon, French Quarter, 400000, 1900, 423-45-6789, A05
+H19, 500 Poydras, Central Business District, 333000, 1500, 623-45-6789, A05
+H20, 600 Poydras, Central Business District, 335000, 1400, 723-45-6789, A01
