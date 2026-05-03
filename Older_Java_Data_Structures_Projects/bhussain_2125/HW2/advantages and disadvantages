@@ -1,0 +1,17 @@
+
+1. List the advantages and disadvantages of lazy deletion. (20 points)
+
+Answer :
+
+Advantages :
+The advantages include potential code complexity reductions and savings if keys are removed and later reinserted.
+There are further benefits, such as the ease with which the element may be deleted and the ease with which it can be reinserted.
+An erased node might be utilized once more.
+
+Disadvantages:
+It has the disadvantage that each node requires an additional bit, or sometimes a byte, and that unneeded nodes are not removed.
+disadvantage of taking up more storage space.
+Trees can regenerate using removed nodes, according to the theory. A deleted node should not be "visited" in any way besides
+All methods that use the binary tree must be changed to either proceed down the left subtree or the right subtree.
+Create a slow deletion method in the class as well. It is possible to either implement a new deletion mechanism,
+or the existing one can be modified.

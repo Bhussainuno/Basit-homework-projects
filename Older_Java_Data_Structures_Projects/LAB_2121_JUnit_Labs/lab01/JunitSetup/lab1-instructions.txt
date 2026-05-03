@@ -1,0 +1,7 @@
+students are provided with the StringMaker and StringMakerTest files. 
+
+They are required to push a screenshot of StringMakerTest sucessfully passing all tests to gitlab.
+
+Look into example lab1.jpg file.
+
+No coding required.
