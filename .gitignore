@@ -19,3 +19,12 @@ Assignment_3/group2/
 Assignment_3/group3/
 Assignment_3/group4/
 bin/
+CSCI4535_AI_NLP_Projects/data - Google Drive.html 
+CSCI4535_AI_NLP_Projects/data - Google Drive_files/ 
+CSCI4535_AI_NLP_Projects/*.zip 
+CSCI4535_AI_NLP_Projects/**/*.zip 
+CSCI4535_AI_NLP_Projects/**/*.download 
+CSCI4535_AI_NLP_Projects/**/*.webp 
+CSCI4535_AI_NLP_Projects/**/.ipynb_checkpoints/ 
+CSCI4535_AI_NLP_Projects/**/__pycache__/ 
+CSCI4535_AI_NLP_Projects/Final project/Suicide_Detection.csv/ 
