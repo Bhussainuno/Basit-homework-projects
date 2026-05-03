@@ -38,3 +38,10 @@ Older_Java_Data_Structures_Projects/**/DOCS/
 Older_Java_Data_Structures_Projects/**/__MACOSX/ 
 Older_Java_Data_Structures_Projects/**/*.pptx 
 Older_Java_Data_Structures_Projects/**/*.ser 
+Terraform_Discord_Bot/.terraform/ 
+Terraform_Discord_Bot/*.zip 
+Terraform_Discord_Bot/*.msi 
+Terraform_Discord_Bot/*key* 
+Terraform_Discord_Bot/*.pem 
+Terraform_Discord_Bot/terraform.tfstate 
+Terraform_Discord_Bot/terraform.tfstate.backup 
