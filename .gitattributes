@@ -1,0 +1,30 @@
+# Do not count generated Java documentation / HTML docs in GitHub language stats
+**/doc/** linguist-generated
+**/doc 2/** linguist-generated
+**/DOCS/** linguist-generated
+**/foldername/** linguist-generated
+**/index-files/** linguist-generated
+**/resources/** linguist-generated
+**/jquery/** linguist-vendored
+**/allclasses*.html linguist-generated
+**/allpackages*.html linguist-generated
+**/constant-values.html linguist-generated
+**/deprecated-list.html linguist-generated
+**/element-list linguist-generated
+**/help-doc.html linguist-generated
+**/index.html linguist-generated
+**/overview*.html linguist-generated
+**/package-*.html linguist-generated
+**/script.js linguist-generated
+**/search.js linguist-generated
+**/stylesheet.css linguist-generated
+**/*search-index*.js linguist-generated
+**/*search-index*.zip linguist-generated
+
+# Do not count exported/generated web pages
+**/*Google Drive_files/** linguist-generated
+**/*Kindle_files/** linguist-generated
+
+# Do not count generic exported HTML/CSS as main project language
+*.html linguist-generated
+*.css linguist-generated
