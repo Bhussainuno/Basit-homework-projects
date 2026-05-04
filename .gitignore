@@ -45,3 +45,8 @@ Terraform_Discord_Bot/*key*
 Terraform_Discord_Bot/*.pem 
 Terraform_Discord_Bot/terraform.tfstate 
 Terraform_Discord_Bot/terraform.tfstate.backup 
+
+# Local Mac files / not portfolio projects
+.localized
+TradingAgents-main/
+print*
