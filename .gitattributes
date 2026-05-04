@@ -1,30 +1,33 @@
-# Do not count generated Java documentation / HTML docs in GitHub language stats
-**/doc/** linguist-generated
-**/doc 2/** linguist-generated
-**/DOCS/** linguist-generated
-**/foldername/** linguist-generated
-**/index-files/** linguist-generated
-**/resources/** linguist-generated
-**/jquery/** linguist-vendored
-**/allclasses*.html linguist-generated
-**/allpackages*.html linguist-generated
-**/constant-values.html linguist-generated
-**/deprecated-list.html linguist-generated
-**/element-list linguist-generated
-**/help-doc.html linguist-generated
-**/index.html linguist-generated
-**/overview*.html linguist-generated
-**/package-*.html linguist-generated
-**/script.js linguist-generated
-**/search.js linguist-generated
-**/stylesheet.css linguist-generated
-**/*search-index*.js linguist-generated
-**/*search-index*.zip linguist-generated
+# Ignore generated Java documentation / HTML docs from GitHub language stats
+*.html linguist-generated=true
+*.css linguist-generated=true
+*.js linguist-generated=true
+**/*.html linguist-generated=true
+**/*.css linguist-generated=true
+**/*.js linguist-generated=true
 
-# Do not count exported/generated web pages
-**/*Google Drive_files/** linguist-generated
-**/*Kindle_files/** linguist-generated
+# JavaDoc / generated documentation folders
+**/doc/** linguist-generated=true
+**/DOCS/** linguist-generated=true
+**/foldername/** linguist-generated=true
+**/index-files/** linguist-generated=true
+**/resources/** linguist-generated=true
+**/jquery/** linguist-vendored=true
 
-# Do not count generic exported HTML/CSS as main project language
-*.html linguist-generated
-*.css linguist-generated
+# Common generated JavaDoc files
+**/allclasses*.html linguist-generated=true
+**/allpackages*.html linguist-generated=true
+**/constant-values.html linguist-generated=true
+**/deprecated-list.html linguist-generated=true
+**/element-list linguist-generated=true
+**/help-doc.html linguist-generated=true
+**/index.html linguist-generated=true
+**/overview*.html linguist-generated=true
+**/package-*.html linguist-generated=true
+**/script.js linguist-generated=true
+**/search.js linguist-generated=true
+**/stylesheet.css linguist-generated=true
+**/*search-index*.js linguist-generated=true
+
+# Specific big generated docs folder
+Project3/** linguist-generated=true
